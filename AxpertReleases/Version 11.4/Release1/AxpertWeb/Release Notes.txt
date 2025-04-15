@@ -1,0 +1,10 @@
+Task ID-012106 -QA(ERP)- Issue Description : The Auto Save Draft functionality is not working as expected in version 11.4. When a user enters data into the Age Form (agfrm) and remains idle, the draft is supposed to be auto-saved based on the configured property value. However, upon revisiting the form, the previously entered values are not restoring.
+
+Task ID-012099 -QA- Issue Description: When we give any invalid credentials that either username or password instead showing invalid credentials its navigating to the blank screen.
+
+Task ID-012098 -QA- Issue Description: When we enter the valid OTP code for the the user its not signing in, instead the screen remains same. Also if we enter any invalid OTP code also the screen remains same
+
+Below issues are fixed those are mentioned in Product release group by QA team:
+1. Default buttons are overlapping with screen name.
+2. SSO configuration not working after move to 'config' page
+3. DB Exceptions should show in client side as well
